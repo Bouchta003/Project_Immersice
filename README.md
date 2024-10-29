@@ -4,7 +4,7 @@ The **Zeppelix Team's** Escape Game is an immersive virtual experience inspired 
 
 ## Project Details
 - **Developed by**:
-  - Ali ([Bouchta003](https://github.com/Bouchta003)) BENOUNA LOURIDI
+  - Ali ([Bouchta003](https://github.com/Bouchta003)) BENNOUNA LOURIDI
   - Auriane ([AduDeVinci](https://github.com/AduDeVinci)) DUPIN
   - Joyce ([atinyshrimp](https://github.com/atinyshrimp)) LAPILUS
   - Salomé ([melosamsam](https://github.com/melosamsam)) THAUVIN
